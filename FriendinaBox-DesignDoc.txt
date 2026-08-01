@@ -1,0 +1,55 @@
+# Friend in a Box – Design Outline
+
+## 1. High Concept / Fantasy
+Deployable grenade which while on the field counts as an ally as if the user were in multiplayer.
+
+## 2. Role & Fantasy in the Arsenal
+- Deployed grenade, with set duration.
+- Set down mine and then let enemies walk over to detonate.
+- No mines in the game as of the current patch.
+
+## 4. Upgrade Paths
+- mine path
+- turret path
+- support path
+
+## 7. Strengths, Weaknesses & Design Pillars
+- allows users to gain multiplayer upgrades in ouroboros without other users.
+- risks being too powerful
+
+## 9. Universal Truths
+- Exotic shapes should always be larger than others and each exotic should be the same number of cells.
+- Upgrades should be about 30 in total.
+- Each weapon should have 3 upgrade paths that create different build options.
+
+## 10. Upgrades
+- converts the laid mine into a turret
+- converts the laid mine into a drone (hovers near the player) (drone defaults as a suicide drone, but if turret or mortar are equipped, gains those effects)
+- converts the laid mine into a mortar turret
+- changes the turret (any kind) gun stats into a portion of the players current weapon
+- after the user hits an enemy, the turret (any kind) begins targeting the same enemy.
+- any damage dealt by the grenade is returned as life to the player.
+- on grenade killing any target, gain grenade charge
+- player holds grenade button to consume a charge and create a line of increased movement speed in that direction.
+- player can shoot the deployed grenade (any form) to immediately destroy it, and deal damage / explosion radius based on remaining duration.
+- on grenade killing any target, gain duration.
+- turret becomes a target for the enemies to go after (lowers duration per hit)
+- increased detection radius + explosion radius on mine
+- if duration ends, create an acid puddle at location of deployed grenade
+- multiple deploys at once
+- generates a small shield periodically when the player takes damage
+- duration increased, cooldown increased
+- cooldown decreased, duration decreased
+- enemies hit by deployed grenade are marked, marked enemies take bonus damage
+- if duration ends, player gains bonus move speed
+- breeding season integration
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
